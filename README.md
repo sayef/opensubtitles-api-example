@@ -37,5 +37,5 @@ This will create a file `romance.txt` listing the ids.
 ```node opensubtitles.js [list_file]```
 Example: ```node opensubtitles.js romance.txt```
 ### Unzip the downloaded files
-```cd subtitles/```
-```./gunzip.sh```
+```cd subtitles/
+./gunzip.sh```

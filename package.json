@@ -1,0 +1,26 @@
+{
+  "name": "opensubtitles-api-example",
+  "version": "1.0.0",
+  "description": "Example code to download subtitles from opensubtitles.com using opensubtitles-api package",
+  "main": "opensubtitles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayef/opensubtitles-api-example.git"
+  },
+  "author": "sayef (https://github.com/sayef)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayef/opensubtitles-api-example/issues"
+  },
+  "homepage": "https://github.com/sayef/opensubtitles-api-example#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "nightmare": "^2.10.0",
+    "node-wget": "^0.4.2",
+    "opensubtitles-api": "^4.0.0",
+    "vo": "^4.0.2"
+  }
+}
