@@ -19,7 +19,6 @@
   "dependencies": {
     "fast-csv": "^2.4.1",
     "nightmare": "^2.10.0",
-    "node-wget": "^0.4.2",
     "opensubtitles-api": "^4.0.0",
     "vo": "^4.0.2"
   }

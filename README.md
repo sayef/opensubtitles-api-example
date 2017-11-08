@@ -36,8 +36,3 @@ This will create a file `romance.txt` listing the ids.
 ### Run opensubtitles.js to download subtitle files
 ```node opensubtitles.js [list_file]```
 Example: ```node opensubtitles.js romance.txt```
-### Unzip the downloaded files
-```sh
-cd subtitles
-./gunzip.sh
-```
